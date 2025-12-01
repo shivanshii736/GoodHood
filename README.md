@@ -1,2 +1,16 @@
 # GoodHood
-GoodHood is a Python + TKinter based web app that helps people discover and join local community service activities. Users can create events, find nearby volunteering opportunities, and collaborate with others in real time.
+\# GoodHood (Tkinter App)
+
+GoodHood is a Python desktop app built using Tkinter & SQLite.
+It allows users to:
+
+\- Create community service events - View all ongoing events - Store
+events locally using SQLite database
+
+This is a beginner-friendly team project for learning GUI development
+and Python collaboration using GitHub.
+
+\## How to run
+
+1\. Install Python (3.8+) 2. Install dependencies: pip install -r
+requirements.txt 3. Run: python main.py
