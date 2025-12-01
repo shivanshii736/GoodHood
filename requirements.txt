@@ -1,0 +1,2 @@
+tk
+#no external dependencies really required, TKinter and SQLite come in-built with Python.
